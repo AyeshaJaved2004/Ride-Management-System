@@ -1,0 +1,12 @@
+[
+    {
+        "Age": 12,
+        "Booked": false,
+        "License": {
+            "Category": "commercial",
+            "ExpirationDate": "2020-02-01",
+            "Number": "1234"
+        },
+        "Name": "ali"
+    }
+]
