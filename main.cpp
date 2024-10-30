@@ -150,9 +150,9 @@ int main()
     int select;
     cout << "-----TRAVEL MANAGEMENT SYSTEM-----" << endl;
     do {
-        cout << "Enter 1 for customer " << endl;
-        cout << "Enter 2 for vehicle " << endl;
-        cout << "Enter 3 for Driver " << endl;
+        cout << "Enter 1 for ~customer " << endl;
+        cout << "Enter 2 for ~vehicle " << endl;
+        cout << "Enter 3 for ~Driver " << endl;
         cin >> select;
         switch (select) {
             case 1: {
